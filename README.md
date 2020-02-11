@@ -1,5 +1,6 @@
 # HadoopLogParse C++ 98
 Author: Sylar Zeyang Zhang
+
 Honored graduation project in Capital Normal University, Beijing.
 
 *Please note that:
