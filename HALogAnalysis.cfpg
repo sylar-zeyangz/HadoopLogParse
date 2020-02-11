@@ -1,0 +1,22 @@
+<Projects version="2.0">
+	<Project active="1">HALogAnalysis.cfp</Project>
+	<File active="0">Factory.h</File>
+	<File active="0">Factory.cpp</File>
+	<File active="0">SlaveWorker.h</File>
+	<File active="0">SlaveWorker.cpp</File>
+	<File active="0">TimeOperator.cpp</File>
+	<File active="0">TimeOperator.h</File>
+	<File active="0">Optree.h</File>
+	<File active="0">Optree.cpp</File>
+	<File active="0">SlaveFileIn.h</File>
+	<File active="0">MasterFileIn.h</File>
+	<File active="0">Task.h</File>
+	<File active="0">TreeStream.h</File>
+	<File active="0">SlaveHash.cpp</File>
+	<File active="0">SlaveHash.h</File>
+	<File active="0">SystemBase.cpp</File>
+	<File active="1">OnExecute.cpp</File>
+	<File active="0">SystemBase.h</File>
+	<File active="0">Task.cpp</File>
+	<File active="0">Tree.h</File>
+</Projects>
